@@ -67,7 +67,7 @@ nav li {
 
 .nav2 li {
     list-style: none;
-    padding-left: 220px;
+    padding-left: 10vw;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -171,3 +171,5 @@ main {
     text-align: center;
     color: darkgray;
 }
+
+
