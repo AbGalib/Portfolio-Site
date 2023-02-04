@@ -23,7 +23,7 @@
     top: 50px;
     background-color: cadetblue;
     border-radius: 5px;
-     text-decoration: none;
+    text-decoration: none;
 
 }
 
@@ -48,6 +48,7 @@ nav ul {
 
 nav li {
     list-style: none;
+    
      
     
 }
@@ -57,15 +58,18 @@ nav li {
     height: 80px;
 }
 
-.nav2{
+.nav{
     display: flex;
     justify-content: space-between;
     margin: 20px 200px;
     background-color: antiquewhite;
     
 }
-
-.nav2 li {
+.nav ul{
+     display: flex;
+    padding-left: 0;
+}
+.nav li {
     list-style: none;
     padding-left: 10vw;
     text-align: center;
@@ -80,7 +84,7 @@ nav li {
 .textli{
     text-decoration: none;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 1.5vw;
     color:darkolivegreen;
 }
 
